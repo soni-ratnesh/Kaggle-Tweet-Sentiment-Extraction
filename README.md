@@ -24,7 +24,7 @@ Steps for installation?<br>
 2. Clone<br>
     `git clone https://github.com/soni-ratnesh/compendium.git`
 3. Change directory<br>
-    `cd compendium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      `
+    `cd compendium`
 4. Create and activate virtual environment<br>
     `pip3 venv env`<br> 
     `. env\bin\activate`
